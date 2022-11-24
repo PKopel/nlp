@@ -2,3 +2,5 @@ ustawy*
 sgjp*
 __pycache__
 .ipynb_checkpoints
+*.zip
+*.tar.gz
